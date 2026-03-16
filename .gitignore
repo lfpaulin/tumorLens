@@ -1,0 +1,15 @@
+src/data/annotation/chunks.tar.xz
+resultadoRsync.txt
+deploy-HLAloss_bin.sh
+_test
+.idea/*
+.idea/
+.rsync-ignore
+_test/
+_test/*
+__pycache__/
+__pycache__/*
+utils/__pycache__/
+utils/__pycache__/*
+venv/
+venv/*
